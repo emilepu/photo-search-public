@@ -1,0 +1,5 @@
+{
+  "model": "ViT-B-32",
+  "pretrained": "laion2b_s34b_b79k",
+  "root_name": "demo_photos"
+}

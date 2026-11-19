@@ -1,0 +1,7 @@
+# what the tests need (no torch: the model is replaced by a fake in tests)
+fastapi
+numpy
+pillow
+pytest
+httpx
+requests

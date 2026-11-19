@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Never commit private photos or indexes built from them
+real_photos/
+data_private/
+
+# Demo photo ORIGINALS stay on your computer; only the small previews in backend/data/thumbs are committed
+demo_photos/*
+!demo_photos/ATTRIBUTION.md
+
+# Misc
+.env
+*.log
+.DS_Store

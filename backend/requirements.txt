@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+pillow
+torch
+open_clip_torch
+# optional: lets build_data.py read .heic photos
+pillow-heif
+requests
