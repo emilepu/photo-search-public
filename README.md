@@ -2,7 +2,7 @@
 
 # Forest photo search
 
-Search a photo collection by describing what is in the picture, for example *"owl"* or *"old oak"*.
+Search a photo collection by describing what is in the picture, for example, *"owl"* or *"old oak"*.
 It uses [OpenCLIP](https://github.com/mlfoundations/open_clip) embeddings, a small Python API and a React + TypeScript front end.
 
 ![Screenshot](docs/screenshot.png)
@@ -10,7 +10,7 @@ It uses [OpenCLIP](https://github.com/mlfoundations/open_clip) embeddings, a sma
 ## Background
 
 First version was built as a volunteer for a forest conservation fund, [Sengirės fondas](https://www.sengiresfondas.lt/).
-Their photos were scattered accross multiple Drives and folders, which was a real inconvennience when finding a photo of something specific was essential for creating promotional (or other) content. Thus, I tried to help with a photo search tool.
+Their photos were scattered across multiple Drives and folders, which was a real inconvenience when finding a photo of something specific was essential for creating promotional (or other) content. Thus, I tried to help with a photo search tool.
 
 The fund's version is a Streamlit app on their own photo bank. **This repository is a separate rebuild with an open-licensed demo collection**, so the code can be public. No photos from the fund are in this repo.
 
